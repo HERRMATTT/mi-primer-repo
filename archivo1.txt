@@ -1,2 +1,6 @@
 hola mundo
+<<<<<<< HEAD
 segunda linea
+=======
+linea nueva
+>>>>>>> feature-rapida
